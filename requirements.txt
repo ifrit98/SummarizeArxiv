@@ -1,0 +1,13 @@
+arxiv 
+requests 
+tiktoken 
+tenacity 
+pybase64 
+Pillow 
+openai 
+markdown 
+gradio 
+fitz
+tools
+frontend
+PyMuPDF # install AFTER fitz
